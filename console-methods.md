@@ -166,12 +166,10 @@ foo();
 Logs a message to the console.  
 
 ```
-```
 const greet = "Hello";
 console.log("Hello World"); // Hello World
 console.log("%s World", greet); // Hello World
 console.log("%cHello %cWorld", "color: red", "color: green"); // Hello(red) World(green)
 
-```
 ```
 
